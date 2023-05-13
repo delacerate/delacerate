@@ -1,6 +1,6 @@
 <h2> Hi, I'm Iska Darman! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzc5NmIxOTUzMzQ4Mjk4MjZjOTI0ZTc0OTRiMTMxNmIyZTkyZGQyYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/kBrSH5C4ps9nyNDo4S/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.trunojoyo.ac.id/">University of Trunojoyo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Mechatronics Enginner at <a href="https://www.trunojoyo.ac.id/">University of Trunojoyo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: delacerate](https://img.shields.io/twitter/follow/delacerate?style=social)](https://twitter.com/delacerate)
