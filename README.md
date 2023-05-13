@@ -14,7 +14,7 @@
 const indonesian = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, NodeJS, C++],
-  hardware: [arduino, raspberry pi, esp32, esp8266],
+  hardware: [arduino, raspberry-pi, esp32, esp8266],
   tools: [React, Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   cloudPlatform: [Azure, AWS]
